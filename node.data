@@ -1,0 +1,29 @@
+Equipable 
+Name: Boulder
+ID: 1
+Value: 1
+Durability: 345
+Weight: 12.0
+Range: 1
+Throwable: false
+Throw distance: 0
+Why can't you throw this item: To Heavy
+Consumable 
+Name: Kale
+ID: 1
+Value: 26
+Durability: 21
+Weight: 2.0
+Harmful: false
+Health provided: 123
+Damage dealt: 0
+Duration: 12.0
+Weapon 
+Name: Gun
+ID: 54
+Value: 90000
+Durability: 34
+Weight: 3.0
+Strength needed: 21
+Skill needed: 44
+Damage output: 500.0
