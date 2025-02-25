@@ -6,10 +6,11 @@ A cargo managment system. Manage weapons, equipables, and consumables with this 
 
 ## Features
 
-- **Add Items**: Add new books with details like title, author, genre, and publication year.
-- **View Items**: View all books in your collection with their details.
-- **Search Items**: Update existing book details.
-- **Delete Items**: Remove books from your collection.
-- **Load Items**: Search for books by title, author, or genre.
-- **Save Items**: Search for books by title, author, or genre.
-- **User-Friendly Interface**: Simple and intuitive command-line interface.
+- **Add Items**: Add new items to your cargo, categorized as weapons, equipables, or consumables.
+- **View Items**:  Display all items in your cargo with details like name, type, quantity, and stats.
+- **Search Items**: Search for items by name, type, or other attributes.
+- **Delete Items**: Remove items from your cargo.
+- **Cargo Capacity**: Track the total weight or capacity of your cargo to prevent overloading.
+- **Load Items**: Load previously create items.
+- **Save Items**: Save items that are created.
+
